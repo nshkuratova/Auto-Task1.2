@@ -7,7 +7,7 @@ public class Main {
     private static char[] vowels = {'a', 'e', 'i', 'o', 'u', 'y'};
 
     public static void main(String[] args) {
-        // Sort list or array by count of vowels in string (in ascending order) test
+        // Sort list or array by count of vowels in string (in ascending order)
 
         int count = 0;
         System.out.print("Insert number of strings: ");
